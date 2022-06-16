@@ -1,0 +1,7 @@
+LICENSE.txt
+setup.py
+calcdemo/__init__.py
+sahithcalc.egg-info/PKG-INFO
+sahithcalc.egg-info/SOURCES.txt
+sahithcalc.egg-info/dependency_links.txt
+sahithcalc.egg-info/top_level.txt
